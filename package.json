@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  },
+  "scripts": {
+    "build": "npx tsc",
+    "watch": "npx tsc --watch",
+    "start": "live-server .",
+    "dist": "./dist.sh",
+    "start-dist": "./dist.sh && live-server dist",
+    "clean": "./clean.sh"
+  }
+}
