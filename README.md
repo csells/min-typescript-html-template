@@ -1,5 +1,5 @@
-# my-typescript-html-template
-A minimal project to enable Typescript file watching on a web site project.
+# min-typescript-html-template
+A minimal project to enable Typescript file watching on a website project.
 
 # usage
 Get this party started:
