@@ -2,7 +2,13 @@
 A minimal project to enable Typescript file watching on a website project.
 
 # usage
-Get this party started:
+Clone into the directory of your choice:
+
+```sh
+$ git clone https://github.com/csells/min-typescript-html-template.git
+```
+
+Enable Typescript in this project:
 
 ```sh
 $ npm install
